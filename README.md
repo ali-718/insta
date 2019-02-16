@@ -1,4 +1,7 @@
 # instagram
+<img style="margin:30%;" src="screenshots/screenshot-2019-02-16_05.21.46.331.png" height="30%" width="30%">
+
+## Before running
 instagram login page (before running it)
 
 ## Install
